@@ -70,3 +70,41 @@ Stage, commit, and push changes with a message "Add book reviews sections."
 
 git status
 
+git add .
+
+git commit -m "message"
+
+Push the "add-book-review" branch to GitHub
+
+git push
+![Git push origin add-book-reviews](./img/Git%20push%20origin%20add-book-review.png)
+
+Raise a PR (Pull Request) for Morgan's work
+![Raise a PR pull request for Morgan](./img/Raise%20a%20PR%20pull%20request%20for%20Morgan.png)
+
+Merge Morgan's work to the main branch.
+![Merge book reviews pull request](./img/Merge%20book%20reviews%20pull%20request.png)
+![Pull request request merged](./img/Pull%20request%20merged.png)
+
+### Jamie's Work: Update Event Pages
+
+We would repeat the same flow for Jamie's work on Events pages. we would ensure Jamie's work is in "update-events" branch.
+
+#### Create Jamie's branch
+
+git checkout -b update-events
+
+git checkout update-events
+
+Pull request for Jamies
+
+git pull origin main
+![Pull request for Jamies](./img/Pull%20request%20for%20Jamies.png)
+
+Update Event.html file using: touch event.html and confirm with vi event,html
+![Update event.html file](./img/Update%20event.html.png)
+
+Check Jamie's Status: git status
+
+
+
