@@ -106,5 +106,11 @@ Update Event.html file using: touch event.html and confirm with vi event,html
 
 Check Jamie's Status: git status
 
+Jamie's Add: git add .
+
+Jamie's commit: git commit -m ""
+
+Jamie's Push: git push origin update-event
+![Git push origin update-events](./img/git%20push%20origin%20update-events.png)
 
 
