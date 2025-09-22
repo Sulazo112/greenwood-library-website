@@ -113,4 +113,8 @@ Jamie's commit: git commit -m ""
 Jamie's Push: git push origin update-event
 ![Git push origin update-events](./img/git%20push%20origin%20update-events.png)
 
+Jamie's push on GitHub:
+
+Jamie's Merged on GitHub repository
+![Jamie's merged on git repository](./img/Jamies%20merged%20on%20git%20repository.png)
 
