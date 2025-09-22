@@ -37,5 +37,36 @@ contact.html
 I will add random content into each of the files.
 ![Adding random contents into each files](./img/Adding%20random%20contents%20into%20each%20files.png)
 
+I will stage, commit, and push the changes directly to the main branch.
 
+git status
+![Git status](./img/Git%20status.png)
+
+git add
+![Git add](./img/Git%20add.png)
+
+git commit -m "message"
+![Git commit](./img/Git%20Commit.png)
+
+git push
+![Git push](./img/Git%20push.png)
+
+## Morgan's Work: Adding Book Reviews
+
+#### I will create a Branch for Morgan
+
+git checkout -b add-book-reviews
+
+Swicth to a new branch name add-book-reviews
+
+Add a new file "book_reviews.html" to represent the book reviews sections:
+
+touch book_review.html
+
+Add a random text content into the file
+![Cat book reviews.html](./img/Cat%20book%20reviews.html.png)
+
+Stage, commit, and push changes with a message "Add book reviews sections."
+
+git status
 
